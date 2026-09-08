@@ -72,8 +72,8 @@ export const StreamScreen: React.FC<StreamScreenProps> = ({ onLock, expiresAt })
         {/* HEADER: Clean Minimalism styling */}
         <header className="w-full flex justify-between items-end pb-2 pt-1">
           <div>
-            <p className="text-[10px] uppercase tracking-widest text-slate-400 font-bold mb-1">
-              School Connect
+            <p className="text-[10px] uppercase tracking-widest text-blue-600 font-bold mb-1">
+              Guardian Ride
             </p>
             <h1 className="text-xl font-extrabold text-slate-900 tracking-tight">
               Van 1 - Live Transport Feed

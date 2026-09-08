@@ -76,7 +76,7 @@ export const LockScreen: React.FC<LockScreenProps> = ({ onUnlock }) => {
       {/* Top Bar / Status */}
       <div className="w-full flex items-center justify-between pt-1 pb-2">
         <div className="flex items-center gap-1.5">
-          <span className="text-[10px] uppercase tracking-widest text-slate-400 font-bold">School Connect</span>
+          <span className="text-[10px] uppercase tracking-widest text-blue-600 font-bold">Guardian Ride</span>
         </div>
         <div className="flex items-center gap-1.5 text-[11px] font-bold text-slate-500 bg-slate-50 border border-slate-200/80 rounded-full px-2.5 py-0.5 shadow-xs">
           <ShieldCheck className="w-3.5 h-3.5 text-blue-600" />
