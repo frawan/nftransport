@@ -1,0 +1,10 @@
+{
+  "name": "Van 1 School Transport Live Feed",
+  "description": "Mobile-first responsive live transport video stream for parents with secure PIN access, real-time vehicle GPS tracking, and driver transmitter.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
